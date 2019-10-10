@@ -18,6 +18,8 @@ Currently a matrix is hardcoded in the file like this:
 
 ```
 
+Just run `ruby main.rb`
+
 #### This code is based in the following rules
 
 Given the following 2d matrix (this is a sample input, you should consider alternative inputs):
