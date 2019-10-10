@@ -1,6 +1,3 @@
-
-##Headers (Underline)
-
 Matrix path finder 
 =============
 
